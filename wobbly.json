@@ -1,6 +1,6 @@
 
 	{
-"version": "test v1",
+"version": "version 1",
 	"iron": "badal li ltaht ila bghiti iron",
 	
 	"ironId": "e1d8ff01",
@@ -18,13 +18,13 @@
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "",
+	"FanInter": "753457971958207_753458188624852",
 	"FanBanner": "",
 	"FanReward": "",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
-	"UnityAppId": "",
+	"UnityAppId": "4009861",
 	"UnityInter": "video",
 	"Unitybanner": "banner",
 	"unityreward": "rewardedVideo"
