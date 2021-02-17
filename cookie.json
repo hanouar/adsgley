@@ -1,0 +1,31 @@
+
+	{
+"version": "test v1",
+	"iron": "badal li ltaht ila bghiti iron",
+	
+	"ironId": "",
+	"ironBanner": "DefaultBanner",
+	"ironInter": "DefaultInterstitial",
+	"ironReward": "DefaultRewardedVideo",
+
+
+	"admob": "hado dyal admob li taht",
+
+	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
+	"interId": "ca-app-pub-3940256099942544/1033173712",
+	"bannerId": "ca-app-pub-3940256099942544/6300978111",
+	"rewardadmob": "ca-app-pub-3940256099942544/5224354917",
+
+	"facebook": "badal li ltaht ila bghiti facebook",
+	
+	"FanInter": "",
+	"FanBanner": "",
+	"FanReward": "",
+
+	"unity": "badal li ltaht ila bghiti unity",
+	
+	"UnityAppId": "",
+	"UnityInter": "video",
+	"Unitybanner": "banner",
+	"unityreward": "rewardedVideo"
+}
