@@ -1,34 +1,7 @@
 
 	{
 "version": "version 2",
-	"iron": "badal li ltaht ila bghiti iron",
-	
-	"ironId": "e1d8ff01",
-	"ironBanner": "DefaultBanner",
-	"ironInter": "DefaultInterstitial",
-	"ironReward": "DefaultRewardedVideo",
 
-
-	"admob": "hado dyal admob li taht",
-
-	"AdmobAppId": "ca-app-pub-9224008817735807~1959669499",
-	"interId": "ca-app-pub-9224008817735807/7163717103",
-	"bannerId": "ca-app-pub-9224008817735807/8141934469",
-	"rewardadmob": "",
-
-	"facebook": "badal li ltaht ila bghiti facebook",
-	
-	"FanInter": "242046577567342_242047457567254",
-	"FanBanner": "",
-	"FanReward": "",
-
-	"unity": "badal li ltaht ila bghiti unity",
-	
-	"UnityAppId": "3981273",
-	"UnityInter": "video",
-	"Unitybanner": "banner",
-	"unityreward": "rewardedVideo"
-	
 	"applovin": "badal li ltaht ila bghiti applovin",
 	
 	"LovinSdk": "3981273",
