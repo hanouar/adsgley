@@ -1,11 +1,13 @@
-
 {
-"version": "version 1",
+"version": "version 1.0",
 
 	"applovin": "badal li ltaht ila bghiti applovin",
 	
-	"LovinSdk": "dTqhToxLmhW5NAih9nwTF84hHZlDnwK6T3WTetv07z_ytdK1_atgDJyw-8OTXAu2Qqh0yq6Rz1ZQAUnW-AqHEG",
-	"LovinInters": "28c0cb4401bcd500",
-	"LovinBanner": "a7846a0dfbe0c0e6",
+	"url1": "https://apps.apple.com/cm/app/escape-the-dentist-obby-mod/id1589325512",
+	"url2": "https://apps.apple.com/cm/app/crazy-cookie-swirl-candy-land/id1578255374",
+	"urlimg1": "ab8fda952acfb154",
+	"urlimg2": "ab8fda952acfb154",
+	"text1": "t1",
+	"text2": "t2",
 	"check": "1",
 }
